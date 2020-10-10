@@ -20,4 +20,9 @@ class Doctor
     end
   end
   
+  def patients
+    .collect do ||
+    end
+  end
+  
 end
